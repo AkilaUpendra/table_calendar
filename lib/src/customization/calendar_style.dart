@@ -188,8 +188,8 @@ class CalendarStyle {
       fontSize: 16.0,
     ), //
     this.todayDecoration = const BoxDecoration(
-      color: const Color(0xFF263238),
-      shape: BoxShape.rectangle,
+      color: const Color(0xFF9FA8DA),
+      shape: BoxShape.circle,
     ),
     this.selectedTextStyle = const TextStyle(
       color: const Color(0xFFFAFAFA),
